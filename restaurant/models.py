@@ -24,6 +24,7 @@ class Restaurant(models.Model):
     menu_url = models.URLField(verbose_name="메뉴 URL", default='')
     latitude = models.FloatField(verbose_name="위치 위도", null=False, default='37.5445023983984')
     longitude = models.FloatField(verbose_name="위치 경도", null=False, default='127.056090471223')
+    parking_area = models.CharField(max_length=100, verbose_name="주차장소추천", default='')
 
     def __str__(self):
         return self.title

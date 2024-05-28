@@ -92,30 +92,31 @@
             cursor: pointer;
             position: absolute;
             top: 50%;
-            transform: translateY(-50%); /* 버튼을 수직으로 중앙에 맞춤 */
+            transform: translateY(-50%);
             width: auto;
             padding: 16px;
             color: white;
             font-weight: bold;
             font-size: 18px;
-            transition: 0.6s ease;
-            border-radius: 0 3px 3px 0;
+            transition: 0.3s ease;
+            border-radius: 50%;
             user-select: none;
-            background-color: rgba(0, 0, 0, 0.5);
+            background-color: rgba(0, 128, 0, 0.7); /* 초록색 배경 */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* 그림자 추가 */
         }
 
         .prev {
-            left: 0;
-            border-radius: 3px 0 0 3px;
+            left: 10px;
         }
 
         .next {
-            right: 0;
-            border-radius: 3px 3px 0 0;
+            right: 10px;
         }
 
         .prev:hover, .next:hover {
-            background-color: rgba(0, 0, 0, 0.8);
+            background-color: rgba(0, 128, 0, 1);
+            transform: translateY(-50%) scale(1.1); /* 확대 효과 */
+            color: yellow;
         }
 
         .additional-info div {
