@@ -34,7 +34,7 @@
             font-family: "Jua", sans-serif;
             font-weight: 400;
             font-style: normal;
-            font-size: 50px; /* 타이틀 크기 설정 */
+            font-size: 35px; /* 타이틀 크기 설정 */
             color: #2F9D27; /* 진한 초록색 */
             margin-bottom: 20px; /* 하단 여백 추가 */
             display: flex;
@@ -238,6 +238,7 @@
         <div>
             <p>{{ restaurant.address }}</p>
         </div>
+        <h2 class="parking"><img src="{% static 'images/parking.png' %}" alt="Icon"> 주차 장소 추천</h2>
         <div id="map" style="width: 1000px; height: 700px;"></div>
         <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=ca36f7b76eda54b1703cee7a06488bf5"></script>
     </div>
