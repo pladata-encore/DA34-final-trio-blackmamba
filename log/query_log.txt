@@ -2818,3 +2818,114 @@
 2024-05-30 08:47:59,184 - file_cache is only supported with oauth2client<4.0.0
 2024-05-30 08:48:25,443 - downloading (1525985 total bytes) file to buffer
 >>>>>>> e8c7c40 (Ammended)
+2024-05-30 16:43:26,688 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-05-30 16:43:26,767 - Collection langchain is not created.
+2024-05-30 16:43:27,914 - file_cache is only supported with oauth2client<4.0.0
+2024-05-30 16:44:20,372 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-05-30 16:44:20,434 - Collection langchain is not created.
+2024-05-30 16:44:21,364 - file_cache is only supported with oauth2client<4.0.0
+2024-05-30 16:44:51,234 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-30 16:44:51,260 - Query: 성수동 성수동 지역 맛집 알려 줘
+2024-05-30 16:44:51,260 - Response: 성수동에는 맛집이 정말 많아요! 몇 가지 추천해드릴게요.
+
+1. 성수연방: 다양한 음식점과 카페가 모여 있는 복합 공간이에요. 분위기도 좋고 다양한 음식을 즐길 수 있어요.
+2. 온화: 한식과 양식을 접목한 퓨전 요리로 유명해요. 특히 파스타와 스테이크가 맛있어요.
+3. 성수동 카페거리: 여러 개의 개성 있는 카페들이 모여 있어 커피와 디저트를 즐기기에 좋아요.
+4. 성수동 수제버거: 수제버거 맛집으로 유명한 곳이에요. 신선한 재료로 만든 버거가 일품이에요.
+5. 성수동 곱창골목: 곱창을 좋아하신다면 이곳을 추천드려요. 다양한 곱창 요리를 맛볼 수 있어요.
+
+성수동은 트렌디한 맛집이 많으니 방문해보시면 좋을 것 같아요!
+2024-05-30 16:59:13,849 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-05-30 16:59:13,911 - Collection langchain is not created.
+2024-05-30 16:59:16,123 - file_cache is only supported with oauth2client<4.0.0
+2024-05-30 17:00:44,503 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-05-30 17:00:44,556 - Collection langchain is not created.
+2024-05-30 17:00:46,747 - file_cache is only supported with oauth2client<4.0.0
+2024-05-30 17:01:27,189 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-30 17:01:27,213 - Query: 서울숲 주변 맛집 알려 줘
+2024-05-30 17:01:27,213 - Response: 서울숲 주변에는 맛집이 정말 많아요! 몇 가지 추천해드릴게요.
+
+1. 서울숲 카페거리: 다양한 카페와 레스토랑이 모여 있는 곳으로, 브런치나 디저트를 즐기기에 좋아요.
+2. 한강진역 근처: 이탈리안 레스토랑 '피자무쪼'는 맛있는 피자와 파스타로 유명해요.
+3. 성수동: '성수연방'은 여러 맛집이 모여 있는 복합문화공간으로, 다양한 음식을 한 곳에서 즐길 수 있어요.
+4. 서울숲 공원 근처: '서울숲 파스타'는 분위기 좋은 이탈리안 레스토랑으로, 파스타와 피자가 맛있어요.
+
+이 외에도 서울숲 주변에는 다양한 맛집이 많으니, 방문하셔서 직접 탐방해보시는 것도 좋을 것 같아요!
+2024-05-30 17:14:25,660 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-05-30 17:14:25,715 - Collection langchain is not created.
+2024-05-30 17:14:27,997 - file_cache is only supported with oauth2client<4.0.0
+2024-05-30 17:14:56,611 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-30 17:14:56,634 - Query: 서울숲 주변 맛집 알려 줘
+2024-05-30 17:14:56,635 - Response: 서울숲 주변 맛집 정보는 카카오톡 메신저로 전송해 드릴게요. 카카오톡 아이디를 알려주시면 정보를 보내드리겠습니다.
+2024-05-30 17:15:49,868 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-30 17:15:49,872 - Query: 홍대 주변 맛집 카카오톡 전송
+2024-05-30 17:15:49,873 - Response: 죄송하지만, 현재는 차량 정보 제공과 음악 재생 기능만 지원하고 있어요. 홍대 주변 맛집 정보를 카카오톡으로 전송하는 기능은 제공하지 않아요. 다른 질문이나 요청이 있으시면 말씀해 주세요!
+2024-05-30 17:20:53,251 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-05-30 17:20:53,304 - Collection langchain is not created.
+2024-05-30 17:20:55,498 - file_cache is only supported with oauth2client<4.0.0
+2024-05-30 17:22:51,564 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-05-30 17:22:51,617 - Collection langchain is not created.
+2024-05-30 17:22:53,282 - file_cache is only supported with oauth2client<4.0.0
+2024-05-30 17:23:22,893 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-30 17:23:22,914 - Query: 서태지 라이브와이어 재생
+2024-05-30 17:23:22,915 - Response: 죄송하지만, 현재 음악을 직접 재생해드릴 수는 없어요. 대신, "서태지 라이브와이어"를 유튜브나 음악 스트리밍 서비스에서 검색해보시면 쉽게 들으실 수 있을 거예요. 도움이 필요하시면 언제든지 말씀해 주세요!
+2024-05-30 17:23:58,567 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-30 17:23:58,571 - Query: k3 엔진오일 교환 주기 알려 줘
+2024-05-30 17:23:58,571 - Response: 기아 K3의 엔진오일 교환 주기는 일반적으로 10,000킬로미터 또는 1년 중 먼저 도래하는 시점에 맞춰 교환하는 것이 권장됩니다. 하지만 운전 환경이나 운전 습관에 따라 교환 주기가 달라질 수 있으니, 차량 매뉴얼을 참고하거나 정비소에서 상담받는 것이 좋습니다.
+2024-05-30 17:28:58,651 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-05-30 17:28:58,705 - Collection langchain is not created.
+2024-05-30 17:29:01,167 - file_cache is only supported with oauth2client<4.0.0
+2024-05-30 17:30:02,407 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-30 17:30:02,428 - Query: k3 엔진 오일 교환 주기 알려 줘
+2024-05-30 17:30:02,428 - Response: 기아 K3의 엔진 오일 교환 주기는 일반적으로 10,000킬로미터 또는 1년 중 먼저 도래하는 시점에 맞춰 교환하는 것이 권장됩니다. 하지만 운전 환경이나 운전 습관에 따라 주기가 달라질 수 있으니, 차량 매뉴얼을 참고하거나 정비소에서 상담받는 것이 좋습니다.
+2024-05-30 17:30:39,160 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-30 17:30:39,164 - Query: 아기 상어 재생
+2024-05-30 17:30:39,164 - Response: 죄송하지만, 현재 음악 재생 기능은 지원하지 않습니다. 대신 다른 질문이나 도움이 필요하시면 언제든지 말씀해 주세요!
+2024-05-30 17:32:05,061 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-05-30 17:32:05,166 - Collection langchain is not created.
+2024-05-30 17:32:08,908 - file_cache is only supported with oauth2client<4.0.0
+2024-05-30 17:32:28,887 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-30 17:32:28,908 - Query: 서태지 라이브와이어 재생해 줘
+2024-05-30 17:32:28,909 - Response: 죄송하지만, 현재는 음악을 직접 재생해 드릴 수는 없어요. 대신 서태지의 "라이브와이어"를 들으시려면 음악 스트리밍 서비스(예: 유튜브, 스포티파이 등)를 이용해 보시는 건 어떨까요? 도움이 필요하시면 언제든지 말씀해 주세요!
+2024-05-30 17:35:06,439 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-05-30 17:35:06,571 - Collection langchain is not created.
+2024-05-30 17:35:11,635 - file_cache is only supported with oauth2client<4.0.0
+2024-05-30 17:47:17,709 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-05-30 17:47:17,823 - Collection langchain is not created.
+2024-05-30 17:47:21,700 - file_cache is only supported with oauth2client<4.0.0
+2024-05-30 17:49:12,899 - downloading (1546832 total bytes) file to buffer
+2024-05-30 17:54:00,531 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-05-30 17:54:00,592 - Collection langchain is not created.
+2024-05-30 17:54:10,581 - file_cache is only supported with oauth2client<4.0.0
+2024-05-30 17:54:37,675 - downloading (1726390 total bytes) file to buffer
+2024-05-30 18:05:04,424 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-30 18:05:04,448 - Query: k3 엔진 제원 알려 줘
+2024-05-30 18:05:04,449 - Response: 기아 K3의 엔진 제원은 다음과 같습니다:
+
+- 엔진 종류: 가솔린 1.6리터 4기통
+- 배기량: 1,591씨씨
+- 최대 출력: 123마력 (PS) / 6,300알피엠
+- 최대 토크: 15.7킬로그램퍼미터 / 4,850알피엠
+
+이 외에도 궁금한 사항이 있으면 언제든지 물어보세요!
+2024-05-31 11:08:18,826 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-05-31 11:08:18,959 - Collection langchain is not created.
+2024-05-31 11:08:22,340 - file_cache is only supported with oauth2client<4.0.0
+2024-05-31 11:08:43,628 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-31 11:08:43,652 - Query: 에펠탑에 대해 설명해 줘
+2024-05-31 11:08:43,652 - Response: 물론이죠! 에펠탑은 프랑스 파리의 랜드마크 중 하나로, 1889년 세계 박람회를 기념하기 위해 건설되었습니다. 구스타브 에펠(Gustave Eiffel)이 설계한 이 철탑은 높이가 약 324미터로, 당시에는 세계에서 가장 높은 건축물이었어요. 에펠탑은 3개의 층으로 나뉘어 있으며, 각 층마다 전망대와 레스토랑이 있어 파리의 아름다운 전경을 감상할 수 있습니다. 처음에는 많은 비판을 받았지만, 지금은 파리의 상징이자 세계적으로 유명한 관광 명소가 되었어요.
+2024-05-31 11:10:22,544 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-31 11:10:22,549 - Query: 넌 누구니
+2024-05-31 11:10:22,549 - Response: 안녕하세요! 저는 차량 정보를 제공해드리는 AI 어시스턴트입니다. 차량에 대한 궁금한 점이 있으면 언제든지 물어보세요. '기아 K3'와 '폭스바겐 골프 7세대'에 대한 정보가 준비되어 있으니, 이 두 차량에 대해 궁금한 점이 있으면 말씀해 주세요. 음악 재생도 가능하니 원하시면 말씀해 주세요!
+2024-05-31 15:29:40,332 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-05-31 15:29:40,464 - Collection langchain is not created.
+2024-05-31 15:29:44,334 - file_cache is only supported with oauth2client<4.0.0
+2024-05-31 15:30:11,713 - downloading (316264 total bytes) file to buffer
+2024-05-31 15:30:58,693 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-05-31 15:30:58,799 - Collection langchain is not created.
+2024-05-31 15:31:02,057 - file_cache is only supported with oauth2client<4.0.0
+2024-05-31 15:31:30,929 - downloading (83975 total bytes) file to buffer
+2024-05-31 15:33:02,103 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-05-31 15:33:02,207 - Collection langchain is not created.
+2024-05-31 15:33:05,669 - file_cache is only supported with oauth2client<4.0.0
+2024-05-31 15:33:32,202 - downloading (13879937 total bytes) file to buffer
